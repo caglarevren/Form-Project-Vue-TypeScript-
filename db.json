@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "caglar",
+      "surname": "evren",
+      "age": "82",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "surname": "tests",
+      "age": "51",
+      "id": 4
+    }
+  ]
+}
